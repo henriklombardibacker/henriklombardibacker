@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrik</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
 
-- 🔭 I’m currently working on **Train Gallery Website**
+- 🔭 I’m currently working on **Learning React**
 
 - 🌱 I’m currently learning **HTML, CSS & JS**
 
