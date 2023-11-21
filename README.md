@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS, JSX & React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/henriklombardibacker?tab=repositories](https://github.com/henriklombardibacker?tab=repositories)
+- 👨‍💻 My projects are available at [https://github.com/henriklombardibacker?tab=repositories](https://github.com/henriklombardibacker?tab=repositories)
 
 - 📫 How to reach me **backerhenrik@gmail.com**
 
