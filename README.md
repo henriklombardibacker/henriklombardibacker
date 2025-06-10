@@ -17,7 +17,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools i've worked on:</h3>
 <p align="left"> 
 
   
@@ -70,11 +70,11 @@
 </a>
 
 <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-powerapps.png" alt="powerapps" width="40" height="40"/>
+  <img src="https://github.com/microsoft/PowerPlatformConnectors/blob/dev/docs/images/powerapps.png?raw=true" alt="powerapps" width="40" height="40"/>
 </a>
 
 <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-flow.png" alt="powerautomate" width="40" height="40"/>
+  <img src="https://github.com/microsoft/PowerPlatformConnectors/blob/dev/docs/images/powerautomate.png?raw=true" alt="powerautomate" width="40" height="40"/>
 </a>
 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
