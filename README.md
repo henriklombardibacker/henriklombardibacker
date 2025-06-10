@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Henrik</h1>
-<h3 align="center">A passionate frontend developer from Norway</h3>
+<h3 align="center">A passionate software developer from Norway</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriklombardibacker&label=Profile%20views&color=0e75b6&style=flat" alt="henriklombardibacker" /> </p>
 
-- 🔭 I’m currently working on [React Projects](https://github.com/henriklombardibacker/ChatGPT-Brukerveiledning https://github.com/henriklombardibacker/JavaScript_Learning/tree/main/JavaScript_L%C3%A6ring)
+- 🔭 I’m currently working at Utviklings og Kompetanseetaten(UKE) as a trainee in the subject IT-Development. I am due to take  my trainee exam by august of 2025 and subsequentially end my 2 year trainee period at 28. of august 2025.
 
-- 🌱 I’m currently learning **JS, JSX & React**
+- 🌱 I’m currently learning **Vue, Typescript & Kotlin**
 
 - 👨‍💻 My projects are available at [https://github.com/henriklombardibacker?tab=repositories](https://github.com/henriklombardibacker?tab=repositories)
 
