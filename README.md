@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriklombardibacker&label=Profile%20views&color=0e75b6&style=flat" alt="henriklombardibacker" /> </p>
 
-- 🔭 I’m currently working at Utviklings og Kompetanseetaten(UKE) as a trainee in the subject IT-Development. I am due to take  my trainee exam by august of 2025 and subsequentially end my 2 year trainee period at 28. of august 2025.
+- 🔭 I’m currently working at Utviklings og Kompetanseetaten(UKE) as a IT-worker in lowcode projects for customers and have finished and passed my trainee exam at august 13th 2025 in the subject of IT-Development and have subsequentially finished my 2 year trainee period at the 27. of august 2025.
 
 - 🌱 I’m currently learning **Vue, Typescript & Kotlin**
 
