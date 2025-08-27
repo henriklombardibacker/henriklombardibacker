@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I always think im worse than i am.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/henrik-backer-78a38126a/</h3>
 <p align="left">
 </p>
 
